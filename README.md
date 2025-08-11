@@ -1,14 +1,15 @@
 <!-- Banner -->
+<h1 align="center">💜 Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
+<h3 align="center">🚀 MERN Stack Developer | UI/UX Enthusiast | Lifelong Learner</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
+
 <p align="center">
   <img src="https://github.com/Arhama-Mehmood/Arhama-Mehmood/blob/main/Introduction%20Image.png" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">💜 Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
-<h3 align="center">🚀 MERN Stack Developer | UI/UX Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
