@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="" alt="Banner" width="100%"/>
+  <img src="https://github.com/Arhama-Mehmood/Arhama-Mehmood/blob/main/Introduction%20Image.png" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">💜 Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
