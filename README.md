@@ -2,11 +2,11 @@
 <h1 align="center">💜 Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
 <h3 align="center">🚀 MERN Stack Developer | UI/UX Enthusiast | Lifelong Learner</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&color=ff69b4&style=flat-square" alt="Profile Views" width="15%"  />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arhama-Mehmood/Arhama-Mehmood/blob/main/Introduction%20Image.png" alt="Banner" width="100%"/>
+  <img src="https://github.com/Arhama-Mehmood/Arhama-Mehmood/blob/main/Introduction%20Image.png" alt="Banner" width="60%"/>
 </p>
 
 
@@ -104,10 +104,10 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arhama-Mehmood&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arhama-Mehmood&theme=tokyonight" height="165"/>
@@ -129,10 +129,10 @@
 ## 📬 Let's Connect  
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.arhamamehmood193@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/arhama-mehmood-8831b2364/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://yourportfolio.com">
