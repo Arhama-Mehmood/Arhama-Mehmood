@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arhama-Mehmood/Arhama-Mehmood/blob/main/Introduction%20Image.png" alt="Banner" width="65%"/>
+  <img src="https://github.com/Arhama-Mehmood/Arhama-Mehmood/blob/main/Introduction%20Image.png" alt="Banner" width="70%"/>
 </p>
 
 
