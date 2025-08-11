@@ -39,16 +39,70 @@
 </p>
 
 ---
+## 🚀 Featured Projects
 
-## 📌 Featured Projects  
-
-| 🚀 Project | 📄 Description | 🛠 Tech Stack |
-|------------|---------------|--------------|
-| [**GitHub User Finder**](https://github.com/Arhama-Mehmood/github_user_finder_app) | Search GitHub users using API | React, JS |
-| [**Luxury Hotel Clone**](https://github.com/Arhama-Mehmood/luxuryHotelClone) | Hotel booking site UI clone | HTML, CSS, JS |
-| [**Quiz App**](https://github.com/Arhama-Mehmood/quizAppWithFirebase) | Quiz game with Firebase auth | JS, Firebase |
-| [**Todo App**](https://github.com/Arhama-Mehmood/todoAppWithFirebase) | CRUD ToDo app with Firebase | JS, Firebase |
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Github User Finder App</h3>
+      <p align="center">
+        A web app that allows users to search for GitHub profiles by username and view their public repositories.
+      </p>
+      <p align="center">
+        <a href="https://arhama-mehmood.github.io/Github_User_Finder_App/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://github.com/Arhama-Mehmood/Github_User_Finder_App" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW CODE-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 QuizApp</h3>
+      <p align="center">
+        An interactive quiz application where users can test their knowledge with instant feedback.
+      </p>
+      <p align="center">
+        <a href="https://arhama-mehmood.github.io/QuizApp/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://github.com/Arhama-Mehmood/QuizApp" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW CODE-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏫 MES Website</h3>
+      <p align="center">
+        A responsive and modern educational institute website built using HTML, CSS, and Bootstrap.
+      </p>
+      <p align="center">
+        <a href="https://arhama-mehmood.github.io/MES-Website/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://github.com/Arhama-Mehmood/MES-Website" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW CODE-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✅ TodoApp</h3>
+      <p align="center">
+        A task management application with full CRUD operations and a sleek UI.
+      </p>
+      <p align="center">
+        <a href="https://arhama-mehmood.github.io/TodoApp/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://github.com/Arhama-Mehmood/TodoApp" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW CODE-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats  
