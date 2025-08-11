@@ -1,6 +1,6 @@
 <!-- Banner -->
-<h1 align="center">💜 Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
-<h3 align="center">🚀 MERN Stack Developer | UI/UX Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
+<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Lifelong Learner</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&color=ff69b4&style=flat-square" alt="Profile Views" width="15%"  />
 </p>
@@ -122,14 +122,14 @@
 ## 🏆 Achievements  
 - 🎓 Completed Jawan Pakistan MERN Stack Modules  
 - 🌟 Worked on multiple **real-world client projects**  
-- 🚀 Deployed apps on **Netlify, Surge, Firebase Hosting**  
+- 🚀 Deployed apps on **Netlify, Surge, Firebase Hosting & Github**  
 
 ---
 
 ## 📬 Let's Connect  
 
 <p align="center">
-  <a href="mailto:your.arhamamehmood193@gmail.com">
+  <a href="mailto:arhamamehmood193@gmail.com target="_blank"">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/arhama-mehmood-8831b2364/">
