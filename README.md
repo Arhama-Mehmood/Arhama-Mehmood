@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏫 MES Website</h3>
+      <h3 align="center">🏫 Client Website</h3>
       <p align="center">
         A responsive and modern educational institute website built using HTML, CSS, and Bootstrap.
       </p>
