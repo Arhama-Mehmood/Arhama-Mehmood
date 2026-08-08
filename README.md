@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
-<h3 align="center">🚀 MERN Stack Developer | AI Learner | Lifelong Learner</h3>
+<h3 align="center">MERN Stack Developer | AI Learner | Lifelong Learner</h3>
 <p align="center">
  
 </p>
