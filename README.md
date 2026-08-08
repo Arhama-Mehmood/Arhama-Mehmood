@@ -14,10 +14,12 @@
 
 ---
 
-MERN Stack Developer
-Working with JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and Firebase and more
-Interested in building practical web applications and learning through real-world projects
-Goal → Grow as a developer and contribute to meaningful projects
+## About Me
+
+-  **MERN Stack Developer**
+-  Working with **JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, Firebase, and more**
+-  Interested in building **practical web applications** and learning through real-world projects
+-  **Goal →** Grow as a developer and contribute to **meaningful projects**
 
 ---
 
