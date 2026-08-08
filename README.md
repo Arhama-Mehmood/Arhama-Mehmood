@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
 <h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Lifelong Learner</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&color=ff69b4&style=flat-square" alt="Profile Views" width="15%"  />
+ 
 </p>
 
 <p align="center">
@@ -13,11 +13,10 @@
 
 ---
 
-## 🌈 About Me  
-💻 Frontend & MERN Stack Developer passionate about **beautiful UI** and **smooth UX**  
-📚 Currently mastering **React, Node.js, MUI, Tailwind CSS**  
-🔥 Love working on **creative projects** and exploring **new technologies**  
-🎯 Goal → Build **impactful apps** & contribute to **open source**  
+MERN Stack Developer
+Working with JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and Firebase and more
+Interested in building practical web applications and learning through real-world projects
+Goal → Grow as a developer and contribute to meaningful projects
 
 ---
 
