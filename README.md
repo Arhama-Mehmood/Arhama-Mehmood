@@ -4,14 +4,10 @@
 <p align="center">
  
 </p>
-<p align="left">
+<center> <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<p align="center">
-  <img src="https://github.com/Arhama-Mehmood/Arhama-Mehmood/blob/main/Introduction%20Image.png" alt="Banner" width="70%"/>
-</p>
-
-
+ </center>
 
 ---
 
