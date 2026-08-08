@@ -1,14 +1,14 @@
 <!-- Banner -->
 <h1 align="center">Hi, I'm <span style="color:#ff66cc">Arhama Mehmood</span> 💜</h1>
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 MERN Stack Developer | AI Learner | Lifelong Learner</h3>
 <p align="center">
  
 </p>
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Arhama-Mehmood&label=Profile%20views&color=0e75b6&style=for-the-badge"
     alt="Profile views"
-    width="180"
+    width="190"
   />
 </p>
 
